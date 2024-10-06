@@ -13,7 +13,6 @@ This project aims to analyze customer feedback on Amazon products using sentimen
 - [Implementation Steps](#implementation-steps)
 - [Key Findings](#key-findings)
 - [How to Run the Project](#how-to-run-the-project)
-- [License](#license)
 
 ## Technologies Used
 
@@ -44,6 +43,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-amazon-reviews.git
-   cd sentiment-analysis-amazon-reviews
+   git clone https://github.com/BalajiV21/Amazon-sentiment-analysis.git
+   
 
