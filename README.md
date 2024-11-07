@@ -2,7 +2,6 @@
  This repository implements sentiment analysis on Amazon product reviews using VADER (Valence Aware Dictionary and sEntiment Reasoner) and RoBERTa (A Robustly Optimized BERT Pretraining Approach). The project classifies reviews into positive, negative, or neutral categories, offering valuable insights into customer feedback and product performance.
 
  # Sentiment Analysis on Amazon Reviews
-
 ## Project Overview
 
 This project aims to analyze customer feedback on Amazon products using sentiment analysis techniques. By extracting insights from product reviews, businesses can better understand customer sentiments and improve their offerings. The project employs both simple rule-based and advanced machine learning models to classify sentiments as positive, negative, or neutral.
